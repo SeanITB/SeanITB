@@ -7,7 +7,8 @@ My second year is focused on three main pillars:
 
 ### Thesis Degree:
 Is the whole of two different programming projects:
-My first was putting in practice the agile *Scrum* metology in a group project...
+
+My first one, was to put in practice the agile *Scrum* metology in a group project 
 ### Robotics: 
 Ay ay ya
 ### Sistems:
