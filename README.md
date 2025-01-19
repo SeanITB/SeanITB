@@ -1,8 +1,10 @@
 <h1>Hi 👋, I'm Seán</h1>
-<p>A passionate backend and andorid developer</p>
+<p>A passionate backend and andorid developer.</p>
 
 # 💫 About Me:
-I'm currently studying
+I'm currently studying in the ITB (Barcelona Institute of Technology) the FP course DAM (Multiplatform Application Development).
+My second year is focused on three main pillars:
+###...
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/se%C3%A1n-costelloe-cacho-56b66a297/) 
