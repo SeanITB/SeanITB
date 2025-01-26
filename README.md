@@ -24,6 +24,8 @@ For this last project, I'm in the role of a **backend developer** in the framewo
 Ay ay ya
 ### Sistems:
 Na na naaa
+### My first programing year
+Ta ta ta
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/se%C3%A1n-costelloe-cacho-56b66a297/) 
