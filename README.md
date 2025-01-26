@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 I'm currently studying in the ITB (Barcelona Institute of Technology) the FP course DAM (Multiplatform Application Development).
-My second year is focused on three main pillars:
+It's my second year and is focused on three main pillars:
 
 ### Thesis Degree:
 The thesis is the whole of two different programming projects:
