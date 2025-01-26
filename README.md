@@ -8,7 +8,10 @@ My second year is focused on three main pillars:
 ### Thesis Degree:
 Is the whole of two different programming projects:
 
-My first one, was to put in practice the agile *Scrum* metology in a group project 
+My first one, was to put in practice the agile *Scrum* methodology in a group project, creating a simple To-Do List in an *Android Jetpack Compose* project. The repository of the project is in the folowing link.
+
+[ToDo_List](https://github.com/ITEC-BCN/projecte-1-dam-24-25-maracaton)
+
 ### Robotics: 
 Ay ay ya
 ### Sistems:
