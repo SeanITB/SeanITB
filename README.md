@@ -6,11 +6,19 @@ I'm currently studying in the ITB (Barcelona Institute of Technology) the FP cou
 My second year is focused on three main pillars:
 
 ### Thesis Degree:
-Is the whole of two different programming projects:
+The thesis is the whole of two different programming projects:
 
-My first one, was to put in practice the agile *Scrum* methodology in a group project, creating a simple To-Do List in an *Android Jetpack Compose* project. The repository of the project is in the folowing link.
+My **first one** was to put in practice the agile **Scrum** methodology in a group project, creating a simple To-Do List in an **Android Jetpack Compose** project. The repository of the project is in the folowing link.
 
 [ToDo_List](https://github.com/ITEC-BCN/projecte-1-dam-24-25-maracaton)
+
+My **second one** is with a bigger group, for the moment 8 developers and designers, and in a real-life scenario with the company [LENIUM](https://www.lenium.es/en/home/) behind as a customer of our service. The objective is automating the process of creating invoices and quotations for customers and facilitating installation of **solar panels** for employees. The link is below.
+
+[Solar panels](https://github.com/ITEC-BCN/projecte-2-dam-24-25-plaques)
+
+For this last project, I'm in the role of a **backend developer** in the framework **Laravel11** for **PHP**. Firstly, I'm doing a course, and the things that I'm learning I post in the following link.
+
+[Laravel11_course](https://github.com/ITEC-BCN/projecte-2-dam-24-25-plaques/tree/master/Sean/laravel11-app)
 
 ### Robotics: 
 Ay ay ya
