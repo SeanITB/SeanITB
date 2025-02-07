@@ -2,7 +2,8 @@
 <p>A passionate backend and andorid developer.</p>
 
 # 💫 About Me:
-I'm currently studying in the ITB   (Barcelona Institute of Technology) the FP course DAM (Multiplatform Application Development).
+I'm currently studying in the ITB ![image](https://github.com/user-attachments/assets/82270b34-05bd-4bd5-aafc-4d0038268dc3)
+ (Barcelona Institute of Technology) the FP course DAM (Multiplatform Application Development).
 It's second year is focused on three main pillars:
 
 ### Thesis Degree:
