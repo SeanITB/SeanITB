@@ -2,17 +2,15 @@
 <p>A passionate backend and andorid developer.</p>
 
 # 💫 About Me:
-I'm currently studying in the ITB (Barcelona Institute of Technology) the FP course DAM (Multiplatform Application Development).
-It's second year is focused on three main pillars:
+I'm an IT student the FP course **Multiplatform Application Development** in the **Barcelona Institute of Technology**. The main things that I'm currently doing.
 
 ### Thesis Degree:
-The thesis is the whole of two different programming projects:
 
-My **first one** was to put in practice the agile **Scrum** methodology in a **Android Jetpack Compose** group project.
+The **first part** was to put in practice the agile **Scrum** methodology in a **Android Jetpack Compose** group project.
 
 [ToDo_List](https://github.com/ITEC-BCN/projecte-1-dam-24-25-maracaton)
 
-My **second one** is the main one. With a bigger group, and in a real-life scenario with the company, [LENIUM](https://www.lenium.es/en/home/) behind as a customer of our service. The goal is to optimize the design of vertical **photovoltaic panels in urban environments**.
+The **second part** is the main one. With a bigger group, and in a real-life scenario with the company, [LENIUM](https://www.lenium.es/en/home/) behind as a customer of our service. The goal is to optimize the design of vertical **photovoltaic panels in urban environments**.
 
 [Solar panels](https://github.com/ITEC-BCN/projecte-2-dam-24-25-plaques)
 
