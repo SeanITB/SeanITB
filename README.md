@@ -2,8 +2,7 @@
 <p>A passionate backend and andorid developer.</p>
 
 # 💫 About Me:
-I'm currently studying in the ITB ![image](https://github.com/user-attachments/assets/82270b34-05bd-4bd5-aafc-4d0038268dc3)
- (Barcelona Institute of Technology) the FP course DAM (Multiplatform Application Development).
+I'm currently studying in the ITB (Barcelona Institute of Technology) the FP course DAM (Multiplatform Application Development).
 It's second year is focused on three main pillars:
 
 ### Thesis Degree:
@@ -17,13 +16,12 @@ My **second one** is the main one. With a bigger group, and in a real-life scena
 
 [Solar panels](https://github.com/ITEC-BCN/projecte-2-dam-24-25-plaques)
 
-For this last project, I'm in the role of a **backend developer** in the framework **Laravel11** for **PHP**. Firstly, I'm doing a course, and the things that I'm learning I post in the following link.
+For this last project, I'm in the role of a **backend developer** in the framework **Laravel11** for **PHP**. Firstly, I'm doing a course.
 
 [Laravel11_course](https://github.com/ITEC-BCN/projecte-2-dam-24-25-plaques/tree/master/Sean/laravel11-app)
 
 ### 🤖 Robotics: 
-Stick my toes with Universal Robots URcaps development. Below you will see my journey.
-
+Sticking my toes with Universal Robots URcaps development. Below you will see my journey.
 
 
 ### Sistems:
