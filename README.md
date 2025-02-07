@@ -2,17 +2,17 @@
 <p>A passionate backend and andorid developer.</p>
 
 # 💫 About Me:
-I'm currently studying in the ITB (Barcelona Institute of Technology) the FP course DAM (Multiplatform Application Development).
-It's my second year and is focused on three main pillars:
+I'm currently studying in the ITB   (Barcelona Institute of Technology) the FP course DAM (Multiplatform Application Development).
+It's second year is focused on three main pillars:
 
 ### Thesis Degree:
 The thesis is the whole of two different programming projects:
 
-My **first one** was to put in practice the agile **Scrum** methodology in a group project, creating a simple To-Do List in an **Android Jetpack Compose** project. The repository of the project is in the folowing link.
+My **first one** was to put in practice the agile **Scrum** methodology in a **Android Jetpack Compose** group project.
 
 [ToDo_List](https://github.com/ITEC-BCN/projecte-1-dam-24-25-maracaton)
 
-My **second one** is with a bigger group, for the moment 8 developers and designers, and in a real-life scenario with the company [LENIUM](https://www.lenium.es/en/home/) behind as a customer of our service. The objective is automating the process of creating invoices and quotations for customers and facilitating installation of **solar panels** for employees. The link is below.
+My **second one** is the main one. With a bigger group, and in a real-life scenario with the company, [LENIUM](https://www.lenium.es/en/home/) behind as a customer of our service. The goal is to optimize the design of vertical **photovoltaic panels in urban environments**.
 
 [Solar panels](https://github.com/ITEC-BCN/projecte-2-dam-24-25-plaques)
 
@@ -20,8 +20,8 @@ For this last project, I'm in the role of a **backend developer** in the framewo
 
 [Laravel11_course](https://github.com/ITEC-BCN/projecte-2-dam-24-25-plaques/tree/master/Sean/laravel11-app)
 
-### Robotics: 
-I'm programming URcaps interfaces and implementing communications with cobots, more specific, the ones for Universal Robots. In the next link, I post the things that I'm currently doing.
+### 🤖 Robotics: 
+Stick my toes with Universal Robots URcaps development. Below you will see my journey.
 
 
 
