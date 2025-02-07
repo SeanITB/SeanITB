@@ -20,7 +20,7 @@ For this last project, I'm in the role of a **backend developer** in the framewo
 
 ### 🤖 Robotics: 
 Sticking my toes with Universal Robots URcaps development. Below you will see my journey.
-
+[ur development](https://github.com/SeanITB/ur_development/blob/main/README.md)
 
 ### Sistems:
 Na na naaa
