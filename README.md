@@ -21,7 +21,10 @@ For this last project, I'm in the role of a **backend developer** in the framewo
 [Laravel11_course](https://github.com/ITEC-BCN/projecte-2-dam-24-25-plaques/tree/master/Sean/laravel11-app)
 
 ### Robotics: 
-Ay ay ya
+I'm programming URcaps interfaces and implementing communications with cobots, more specific, the ones for Universal Robots. In the next link, I post the things that I'm currently doing.
+
+
+
 ### Sistems:
 Na na naaa
 ### My first programing year
