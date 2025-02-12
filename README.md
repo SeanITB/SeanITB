@@ -2,19 +2,17 @@
 <p>A passionate backend and andorid developer.</p>
 
 # 💫 About Me:
-I'm an IT student the FP course **Multiplatform Application Development** in the **Barcelona Institute of Technology**. 
-The main things that I'm currently doing.
+I'm an IT student the FP course **Multiplatform Application Development** 📱 in the **Barcelona Institute of Technology**. 
 
-**Thesis Degree** is separated in two projects. The first one is for putting in practice the **Scrum** methodology in [Android Jetpack Compose ToDo app](https://github.com/ITEC-BCN/projecte-1-dam-24-25-maracaton). The second one is with [LENIUM](https://www.lenium.es/en/home/) as our costumer for implementing the [design and optimize of vertical photovoltaic panels in urban environments](https://github.com/ITEC-BCN/projecte-2-dam-24-25-plaques).
+### Things that I'm currently doing.
 
-### 🤖 Robotics: 
-Sticking my toes with Universal Robots URcaps development. Below you will see my journey.
-[ur development](https://github.com/SeanITB/ur_development/blob/main/README.md)
+**Thesis Degree** is separated in two projects. The first one is for putting in practice the **Scrum** methodology in 📈 [Android Jetpack Compose ToDo app](https://github.com/ITEC-BCN/projecte-1-dam-24-25-maracaton). The second one is with [LENIUM](https://www.lenium.es/en/home/) as our costumer for implementing the 🌞 [design and optimize of vertical photovoltaic panels in urban environments](https://github.com/ITEC-BCN/projecte-2-dam-24-25-plaques).
 
-### Sistems:
-Na na naaa
-### My first programing year
-Ta ta ta
+🤖 In **Robotics** I'm sticking my toes with [Universal Robots URcaps development](https://github.com/SeanITB/ur_development/blob/main/README.md). 
+
+🖥️ For **Sistems** Na na naaa [sistems](https://www.google.es/search?q=buscaminas&sca_esv=2bcd4b8779e4d469&source=hp&ei=EWGsZ8qZJtimkdUP3pKCqAI&iflsig=ACkRmUkAAAAAZ6xvIeQJzDi7g4V3cMGfx-7NZCdUCytl&ved=0ahUKEwiK5pzh4L2LAxVYU6QEHV6JACUQ4dUDCA4&uact=5&oq=buscaminas&gs_lp=Egdnd3Mtd2l6IgpidXNjYW1pbmFzMgsQLhiABBixAxiDATIFEAAYgAQyBRAAGIAEMgUQLhiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABEj5IlC7B1iDGnABeACQAQCYAasBoAHCCKoBAzUuNbgBA8gBAPgBAZgCCqAC9gioAgDCAhEQLhiABBixAxjRAxiDARjHAcICCBAuGIAEGLEDwgIIEAAYgAQYsQPCAg4QLhiABBixAxjRAxjHAcICCxAAGIAEGLEDGIMBwgILEC4YgAQY0QMYxwHCAhEQLhiABBixAxjHARiOBRivAcICDhAAGIAEGLEDGIMBGIoFwgIOEC4YgAQYxwEYjgUYrwHCAgsQLhiABBjHARivAZgDAfEFbNyo3LBHoOSSBwMzLjegB5Nq&sclient=gws-wiz&safe=active&ssui=on)
+
+## 🧑‍💻 Programing porfolio: 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/se%C3%A1n-costelloe-cacho-56b66a297/) 
