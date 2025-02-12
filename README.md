@@ -5,7 +5,7 @@
 I'm an IT student the FP course **Multiplatform Application Development** in the **Barcelona Institute of Technology**. 
 The main things that I'm currently doing.
 
-**Thesis Degree** is separated in two projects. The first one is putting in practice the **Scrum** methodology in [Android Jetpack Compose ToDo app](https://github.com/ITEC-BCN/projecte-1-dam-24-25-maracaton). The second one, is with [LENIUM](https://www.lenium.es/en/home/) as our costumer for implementing the [design and optimize of vertical photovoltaic panels in urban environments](https://github.com/ITEC-BCN/projecte-2-dam-24-25-plaques).
+**Thesis Degree** is separated in two projects. The first one is for putting in practice the **Scrum** methodology in [Android Jetpack Compose ToDo app](https://github.com/ITEC-BCN/projecte-1-dam-24-25-maracaton). The second one is with [LENIUM](https://www.lenium.es/en/home/) as our costumer for implementing the [design and optimize of vertical photovoltaic panels in urban environments](https://github.com/ITEC-BCN/projecte-2-dam-24-25-plaques).
 
 ### 🤖 Robotics: 
 Sticking my toes with Universal Robots URcaps development. Below you will see my journey.
