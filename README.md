@@ -2,7 +2,7 @@
 <p>A passionate backend and andorid developer and saxophonist amateur 🎷.</p>
 
 # 💫 About Me:
-I'm an IT student the FP course **Multiplatform Application Development** 📱 in the **Barcelona Institute of Technology**. 
+I'm an IT student the FP course **Multiplatform Application Development** 📱 in the **Barcelona Institute of Technology** <img src="https://media0.giphy.com/media/hpWmrQTirHHuVf12tm/200w.gif" width=20>. 
 
 ### Things that I'm currently doing.
 
