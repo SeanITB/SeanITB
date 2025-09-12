@@ -6,7 +6,7 @@ I transform your ideas into mobile apps :).
 
 ### Things that I'm currently doing.
 
-I'm in an internship as an Android Studio developer at Engage Media TV. This is a summary of what I have learned [emtv_porfolio](https://github.com/SeanITB/emtv_porfolio.git/README.md). 
+I'm in an internship as an Android Studio developer at Engage Media TV. This is a summary of what I have learned [emtv_porfolio](https://github.com/SeanITB/emtv_porfolio.git). 
 
 
 ## 🧑‍💻 Programing porfolio: 
