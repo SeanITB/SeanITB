@@ -2,15 +2,12 @@
 <p>A passionate backend and andorid developer and saxophonist amateur 🎷.</p>
 
 # 💫 About Me:
-I'm an IT student the FP course **Multiplatform Application Development** 📱 in the **Barcelona Institute of Technology** <img src="https://media0.giphy.com/media/hpWmrQTirHHuVf12tm/200w.gif" width=20>. 
+I transform your ideas into mobile apps :). 
 
 ### Things that I'm currently doing.
 
-💼 The **Thesis Degree** is separated in two projects. The first one is for putting in practice the **Scrum** methodology in [Android Jetpack Compose ToDo app](https://github.com/ITEC-BCN/projecte-1-dam-24-25-maracaton). The second one is with [LENIUM](https://www.lenium.es/en/home/) as our costumer for implementing the [design and optimize of vertical photovoltaic panels in urban environments](https://github.com/ITEC-BCN/projecte-2-dam-24-25-plaques).
+I'm in an internship as an Android Studio developer at Engage Media TV. This is a summary of what I have learned [emtv_porfolio](https://github.com/SeanITB/emtv_porfolio.git/README.md). 
 
-🤖 In **Robotics** I'm sticking my toes with [Universal Robots URcaps development](https://github.com/SeanITB/ur_development/blob/main/README.md). 
-
-🖥️ For **Sistems** Working on it, stay tune... [sistems](https://www.google.es/search?q=buscaminas&sca_esv=2bcd4b8779e4d469&source=hp&ei=EWGsZ8qZJtimkdUP3pKCqAI&iflsig=ACkRmUkAAAAAZ6xvIeQJzDi7g4V3cMGfx-7NZCdUCytl&ved=0ahUKEwiK5pzh4L2LAxVYU6QEHV6JACUQ4dUDCA4&uact=5&oq=buscaminas&gs_lp=Egdnd3Mtd2l6IgpidXNjYW1pbmFzMgsQLhiABBixAxiDATIFEAAYgAQyBRAAGIAEMgUQLhiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABEj5IlC7B1iDGnABeACQAQCYAasBoAHCCKoBAzUuNbgBA8gBAPgBAZgCCqAC9gioAgDCAhEQLhiABBixAxjRAxiDARjHAcICCBAuGIAEGLEDwgIIEAAYgAQYsQPCAg4QLhiABBixAxjRAxjHAcICCxAAGIAEGLEDGIMBwgILEC4YgAQY0QMYxwHCAhEQLhiABBixAxjHARiOBRivAcICDhAAGIAEGLEDGIMBGIoFwgIOEC4YgAQYxwEYjgUYrwHCAgsQLhiABBjHARivAZgDAfEFbNyo3LBHoOSSBwMzLjegB5Nq&sclient=gws-wiz&safe=active&ssui=on)
 
 ## 🧑‍💻 Programing porfolio: 
 Working on it, stay tune... 
