@@ -20,6 +20,3 @@ I'm in an internship as an Android Studio developer at Engage Media TV. This is 
 * My mail: sean.costelloe.7e5@gmail.com
 
 Don't hesitate to contact me if you need Catalan software!
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
